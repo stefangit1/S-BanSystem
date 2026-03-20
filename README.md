@@ -7,7 +7,7 @@
 - /mute <player> <reason> *Makes the user unable to write messages in chat*
 
 ## Installation
-1. Download the plugin CookieClicker.jar file
+1. Download the plugin S-BanSystem.jar file
 2. Place it in your server's plugins folder
 3. Restart or reload your server
 4. Done!
