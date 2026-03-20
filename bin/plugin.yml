@@ -1,0 +1,10 @@
+name: S-BanSystem
+version: 1.0
+main: de.sofamann.sban.main.Main
+
+commands:
+  ban:
+  unban:
+  mute:
+  unmute:
+  kick:
